@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/boiler2021/BuildConfig.java
+ com.example.boiler2021.BuildConfig
